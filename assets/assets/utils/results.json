@@ -1,0 +1,849 @@
+{
+    "results": [
+        {
+            "answerT": true,
+            "answerT1": 1,
+            "answerI": false,
+            "answerI1": 0,
+            "answerM": false,
+            "answerM1": 0,
+            "answerE": false,
+            "answerE1": 0,
+            "answerE2": 0,
+            "solutions": [
+                21,
+                16,
+                49,
+                26,
+                6
+            ],
+            "warning": [
+                2,
+                4,
+                3
+            ]
+        },
+        {
+            "answerT": true,
+            "answerT1": 1,
+            "answerI": true,
+            "answerI1": 1,
+            "answerM": false,
+            "answerM1": 0,
+            "answerE": false,
+            "answerE1": 0,
+            "answerE2": 0,
+            "solutions": [
+                22,
+                23,
+                40,
+                39,
+                49,
+                26,
+                34,
+                37,
+                53,
+                54
+            ],
+            "warning": []
+        },
+        {
+            "answerT": true,
+            "answerT1": 1,
+            "answerI": true,
+            "answerI1": 2,
+            "answerM": false,
+            "answerM1": 0,
+            "answerE": false,
+            "answerE1": 0,
+            "answerE2": 0,
+            "solutions": [
+                22,
+                23,
+                26,
+                34,
+                37,
+                39,
+                40,
+                49,
+                53,
+                54
+            ],
+            "warning": [
+                8
+            ]
+        },
+        {
+            "answerT": true,
+            "answerT1": 1,
+            "answerI": true,
+            "answerI1": 3,
+            "answerM": false,
+            "answerM1": 0,
+            "answerE": false,
+            "answerE1": 0,
+            "answerE2": 0,
+            "solutions": [
+                22,
+                23,
+                26,
+                33,
+                38,
+                40,
+                49,
+                55
+            ],
+            "warning": []
+        },
+        {
+            "answerT": true,
+            "answerT1": 2,
+            "answerI": true,
+            "answerI1": 1,
+            "answerM": true,
+            "answerM1": 3,
+            "answerE": false,
+            "answerE1": 0,
+            "answerE2": 0,
+            "solutions": [
+                8,
+                10,
+                12,
+                14,
+                27,
+                28,
+                31,
+                34,
+                39,
+                40,
+                42,
+                45,
+                46,
+                49,
+                55
+            ],
+            "warning": []
+        },
+        {
+            "answerT": true,
+            "answerT1": 2,
+            "answerI": true,
+            "answerI1": 2,
+            "answerM": true,
+            "answerM1": 3,
+            "answerE": false,
+            "answerE1": 0,
+            "answerE2": 0,
+            "solutions": [
+                8,
+                10,
+                12,
+                14,
+                27,
+                28,
+                31,
+                34,
+                39,
+                40,
+                42,
+                45,
+                46,
+                49,
+                55
+            ],
+            "warning": [
+                8
+            ]
+        },
+        {
+            "answerT": true,
+            "answerT1": 2,
+            "answerI": true,
+            "answerI1": 3,
+            "answerM": true,
+            "answerM1": 3,
+            "answerE": false,
+            "answerE1": 0,
+            "answerE2": 0,
+            "solutions": [
+                8,
+                10,
+                12,
+                14,
+                27,
+                32,
+                35,
+                39,
+                40,
+                42,
+                49,
+                53
+            ],
+            "warning": []
+        },
+        {
+            "answerT": true,
+            "answerT1": 2,
+            "answerI": true,
+            "answerI1": 1,
+            "answerM": true,
+            "answerM1": 2,
+            "answerE": false,
+            "answerE1": 0,
+            "answerE2": 0,
+            "solutions": [
+                2,
+                3,
+                8,
+                10,
+                12,
+                14,
+                39,
+                40,
+                42,
+                53,
+                56
+            ],
+            "warning": [
+                6
+            ]
+        },
+        {
+            "answerT": true,
+            "answerT1": 2,
+            "answerI": true,
+            "answerI1": 2,
+            "answerM": true,
+            "answerM1": 2,
+            "answerE": false,
+            "answerE1": 0,
+            "answerE2": 0,
+            "solutions": [
+                2,
+                3,
+                8,
+                10,
+                12,
+                14,
+                39,
+                40,
+                42,
+                53,
+                56
+            ],
+            "warning": [
+                6,
+                8
+            ]
+        },
+        {
+            "answerT": true,
+            "answerT1": 2,
+            "answerI": true,
+            "answerI1": 3,
+            "answerM": true,
+            "answerM1": 2,
+            "answerE": false,
+            "answerE1": 0,
+            "answerE2": 0,
+            "solutions": [
+                2,
+                3,
+                8,
+                10,
+                12,
+                14,
+                39,
+                40,
+                42,
+                53,
+                56
+            ],
+            "warning": [
+                6
+            ]
+        },
+        {
+            "answerT": true,
+            "answerT1": 2,
+            "answerI": true,
+            "answerI1": 1,
+            "answerM": true,
+            "answerM1": 1,
+            "answerE": false,
+            "answerE1": 0,
+            "answerE2": 0,
+            "solutions": [
+                2,
+                45,
+                3,
+                8,
+                10,
+                12,
+                14,
+                39,
+                40,
+                42,
+                51,
+                53,
+                56,
+                57
+            ],
+            "warning": [
+                6
+            ]
+        },
+        {
+            "answerT": true,
+            "answerT1": 2,
+            "answerI": true,
+            "answerI1": 2,
+            "answerM": true,
+            "answerM1": 1,
+            "answerE": false,
+            "answerE1": 0,
+            "answerE2": 0,
+            "solutions": [
+                2,
+                45,
+                3,
+                8,
+                10,
+                12,
+                14,
+                39,
+                40,
+                42,
+                51,
+                53,
+                56,
+                57
+            ],
+            "warning": [
+                1,
+                8
+            ]
+        },
+        {
+            "answerT": true,
+            "answerT1": 2,
+            "answerI": true,
+            "answerI1": 3,
+            "answerM": true,
+            "answerM1": 1,
+            "answerE": false,
+            "answerE1": 0,
+            "answerE2": 0,
+            "solutions": [
+                2,
+                3,
+                8,
+                10,
+                12,
+                14,
+                39,
+                40,
+                42,
+                51,
+                53,
+                56,
+                57
+            ],
+            "warning": [
+                1
+            ]
+        },
+        {
+            "answerT": true,
+            "answerT1": 2,
+            "answerI": false,
+            "answerI1": 0,
+            "answerM": true,
+            "answerM1": 1,
+            "answerE": false,
+            "answerE1": 0,
+            "answerE2": 0,
+            "solutions": [
+                47,
+                1,
+                9,
+                11,
+                13,
+                41,
+                49,
+                60
+            ],
+            "warning": [
+                6
+            ]
+        },
+        {
+            "answerT": true,
+            "answerT1": 2,
+            "answerI": false,
+            "answerI1": 0,
+            "answerM": true,
+            "answerM1": 2,
+            "answerE": false,
+            "answerE1": 0,
+            "answerE2": 0,
+            "solutions": [
+                1,
+                9,
+                11,
+                13,
+                41,
+                49,
+                59
+            ],
+            "warning": [
+                1
+            ]
+        },
+        {
+            "answerT": true,
+            "answerT1": 2,
+            "answerI": false,
+            "answerI1": 0,
+            "answerM": true,
+            "answerM1": 3,
+            "answerE": false,
+            "answerE1": 0,
+            "answerE2": 0,
+            "solutions": [
+                1,
+                9,
+                11,
+                13,
+                41,
+                49,
+                59
+            ],
+            "warning": [
+                6
+            ]
+        },
+        {
+            "answerT": false,
+            "answerT1": 0,
+            "answerI": true,
+            "answerI1": 1,
+            "answerM": true,
+            "answerM1": 3,
+            "answerE": false,
+            "answerE1": 0,
+            "answerE2": 0,
+            "solutions": [
+                8,
+                10,
+                12,
+                14,
+                27,
+                28,
+                31,
+                34,
+                39,
+                40,
+                42,
+                45,
+                46,
+                55
+            ],
+            "warning": []
+        },
+        {
+            "answerT": false,
+            "answerT1": 0,
+            "answerI": true,
+            "answerI1": 2,
+            "answerM": true,
+            "answerM1": 3,
+            "answerE": false,
+            "answerE1": 0,
+            "answerE2": 0,
+            "solutions": [
+                49,
+                8,
+                10,
+                12,
+                14,
+                27,
+                28,
+                31,
+                34,
+                39,
+                40,
+                42,
+                45,
+                46,
+                53,
+                61
+            ],
+            "warning": [
+                8
+            ]
+        },
+        {
+            "answerT": false,
+            "answerT1": 0,
+            "answerI": true,
+            "answerI1": 3,
+            "answerM": true,
+            "answerM1": 3,
+            "answerE": false,
+            "answerE1": 0,
+            "answerE2": 0,
+            "solutions": [
+                8,
+                10,
+                12,
+                14,
+                27,
+                32,
+                35,
+                39,
+                40,
+                42,
+                53,
+                61
+            ],
+            "warning": [
+                6
+            ]
+        },
+        {
+            "answerT": false,
+            "answerT1": 0,
+            "answerI": true,
+            "answerI1": 1,
+            "answerM": true,
+            "answerM1": 2,
+            "answerE": false,
+            "answerE1": 0,
+            "answerE2": 0,
+            "solutions": [
+                2,
+                3,
+                8,
+                10,
+                12,
+                14,
+                18,
+                24,
+                39,
+                40,
+                42,
+                53,
+                61
+            ],
+            "warning": [
+                6
+            ]
+        },
+        {
+            "answerT": false,
+            "answerT1": 0,
+            "answerI": true,
+            "answerI1": 2,
+            "answerM": true,
+            "answerM1": 2,
+            "answerE": false,
+            "answerE1": 0,
+            "answerE2": 0,
+            "solutions": [
+                2,
+                3,
+                8,
+                10,
+                12,
+                14,
+                39,
+                40,
+                42,
+                53,
+                56,
+                57
+            ],
+            "warning": [
+                8
+            ]
+        },
+        {
+            "answerT": false,
+            "answerT1": 0,
+            "answerI": true,
+            "answerI1": 3,
+            "answerM": true,
+            "answerM1": 2,
+            "answerE": false,
+            "answerE1": 0,
+            "answerE2": 0,
+            "solutions": [
+                2,
+                51,
+                3,
+                8,
+                10,
+                12,
+                14,
+                18,
+                39,
+                40,
+                42,
+                53,
+                57
+            ],
+            "warning": [
+                1
+            ]
+        },
+        {
+            "answerT": false,
+            "answerT1": 0,
+            "answerI": true,
+            "answerI1": 1,
+            "answerM": true,
+            "answerM1": 1,
+            "answerE": false,
+            "answerE1": 0,
+            "answerE2": 0,
+            "solutions": [
+                2,
+                45,
+                3,
+                51,
+                8,
+                10,
+                12,
+                14,
+                39,
+                40,
+                42,
+                55,
+                56,
+                57
+            ],
+            "warning": [
+                1
+            ]
+        },
+        {
+            "answerT": false,
+            "answerT1": 0,
+            "answerI": true,
+            "answerI1": 2,
+            "answerM": true,
+            "answerM1": 1,
+            "answerE": false,
+            "answerE1": 0,
+            "answerE2": 0,
+            "solutions": [
+                2,
+                3,
+                51,
+                45,
+                8,
+                10,
+                12,
+                14,
+                39,
+                40,
+                42,
+                55,
+                56,
+                57
+            ],
+            "warning": [
+                1,
+                8
+            ]
+        },
+        {
+            "answerT": false,
+            "answerT1": 0,
+            "answerI": true,
+            "answerI1": 3,
+            "answerM": true,
+            "answerM1": 1,
+            "answerE": false,
+            "answerE1": 0,
+            "answerE2": 0,
+            "solutions": [
+                2,
+                3,
+                8,
+                10,
+                12,
+                14,
+                39,
+                40,
+                42,
+                51,
+                55,
+                56,
+                57
+            ],
+            "warning": [
+                1
+            ]
+        },
+        {
+            "answerT": false,
+            "answerT1": 0,
+            "answerI": false,
+            "answerI1": 0,
+            "answerM": true,
+            "answerM1": 1,
+            "answerE": false,
+            "answerE1": 0,
+            "answerE2": 0,
+            "solutions": [
+                1,
+                48,
+                19,
+                13,
+                43,
+                9,
+                59
+            ],
+            "warning": [
+                1
+            ]
+        },
+        {
+            "answerT": false,
+            "answerT1": 0,
+            "answerI": false,
+            "answerI1": 0,
+            "answerM": true,
+            "answerM1": 2,
+            "answerE": false,
+            "answerE1": 0,
+            "answerE2": 0,
+            "solutions": [
+                1,
+                19,
+                11,
+                13,
+                43,
+                9,
+                58,
+                59
+            ],
+            "warning": [
+                1
+            ]
+        },
+        {
+            "answerT": false,
+            "answerT1": 0,
+            "answerI": false,
+            "answerI1": 0,
+            "answerM": true,
+            "answerM1": 3,
+            "answerE": false,
+            "answerE1": 0,
+            "answerE2": 0,
+            "solutions": [
+                11,
+                13,
+                43,
+                9,
+                58
+            ],
+            "warning": [
+                6
+            ]
+        },
+        {
+            "answerT": false,
+            "answerT1": 0,
+            "answerI": false,
+            "answerI1": 0,
+            "answerM": false,
+            "answerM1": 0,
+            "answerE": true,
+            "answerE1": 1,
+            "answerE2": 0,
+            "solutions": [
+                62,
+                4,
+                7,
+                15,
+                25,
+                29,
+                30,
+                44,
+                52
+            ],
+            "warning": [
+                7
+            ]
+        },
+        {
+            "answerT": false,
+            "answerT1": 0,
+            "answerI": false,
+            "answerI1": 0,
+            "answerM": false,
+            "answerM1": 0,
+            "answerE": true,
+            "answerE1": 2,
+            "answerE2": 1,
+            "solutions": [
+                62,
+                4,
+                7,
+                15,
+                25,
+                29,
+                30,
+                44,
+                52
+            ],
+            "warning": [
+                5
+            ]
+        },
+        {
+            "answerT": false,
+            "answerT1": 0,
+            "answerI": false,
+            "answerI1": 0,
+            "answerM": false,
+            "answerM1": 0,
+            "answerE": true,
+            "answerE1": 2,
+            "answerE2": 2,
+            "solutions": [
+                62,
+                4,
+                7,
+                15,
+                25,
+                29,
+                30,
+                44,
+                52
+            ],
+            "warning": [
+                5
+            ]
+        },
+        {
+            "answerT": false,
+            "answerT1": 0,
+            "answerI": false,
+            "answerI1": 0,
+            "answerM": false,
+            "answerM1": 0,
+            "answerE": true,
+            "answerE1": 2,
+            "answerE2": 3,
+            "solutions": [],
+            "warning": [
+                5
+            ]
+        }
+    ]
+}
